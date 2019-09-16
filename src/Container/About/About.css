@@ -1,0 +1,10 @@
+.Nav{
+    background-color: #5c6bc0;
+}
+.Nav button {
+    background: none;
+    border: none;
+    color: #ffffff;
+    padding: 30px;
+    cursor: pointer;
+}
